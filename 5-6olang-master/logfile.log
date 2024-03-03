@@ -1,0 +1,122 @@
+{"level":"info","msg":"Connected to MongoDB","time":"2024-03-03T15:21:42+07:00"}
+{"level":"info","msg":"Server is running at http://127.0.0.1:8080","time":"2024-03-03T15:21:42+07:00"}
+{"level":"info","msg":"Server is shutting down...","time":"2024-03-03T15:23:19+07:00"}
+{"level":"info","msg":"Server has stopped","time":"2024-03-03T15:23:19+07:00"}
+{"level":"info","msg":"Connected to MongoDB","time":"2024-03-03T15:23:24+07:00"}
+{"level":"info","msg":"Server is running at http://127.0.0.1:8080","time":"2024-03-03T15:23:25+07:00"}
+{"level":"info","msg":"Server is shutting down...","time":"2024-03-03T16:36:22+07:00"}
+{"level":"info","msg":"Server has stopped","time":"2024-03-03T16:36:22+07:00"}
+{"level":"info","msg":"Connected to MongoDB","time":"2024-03-03T16:36:40+07:00"}
+{"level":"info","msg":"Server is running at http://127.0.0.1:8080","time":"2024-03-03T16:36:40+07:00"}
+{"level":"info","msg":"Server is shutting down...","time":"2024-03-03T16:43:48+07:00"}
+{"level":"info","msg":"Server has stopped","time":"2024-03-03T16:43:48+07:00"}
+{"level":"info","msg":"Connected to MongoDB","time":"2024-03-03T16:43:54+07:00"}
+{"level":"info","msg":"Server is running at http://127.0.0.1:8080","time":"2024-03-03T16:43:54+07:00"}
+{"level":"info","msg":"Error logging in: mongo: no documents in result","time":"2024-03-03T16:44:45+07:00"}
+{"level":"info","msg":"Error logging in: mongo: no documents in result","time":"2024-03-03T16:45:02+07:00"}
+{"level":"info","msg":"Server is shutting down...","time":"2024-03-03T16:56:49+07:00"}
+{"level":"info","msg":"Server has stopped","time":"2024-03-03T16:56:49+07:00"}
+{"level":"info","msg":"Connected to MongoDB","time":"2024-03-03T16:56:54+07:00"}
+{"level":"info","msg":"Server is running at http://127.0.0.1:8080","time":"2024-03-03T16:56:54+07:00"}
+{"level":"info","msg":"Server is shutting down...","time":"2024-03-03T16:57:40+07:00"}
+{"level":"info","msg":"Server has stopped","time":"2024-03-03T16:57:40+07:00"}
+{"level":"info","msg":"Connected to MongoDB","time":"2024-03-03T16:57:45+07:00"}
+{"level":"info","msg":"Server is running at http://127.0.0.1:8080","time":"2024-03-03T16:57:45+07:00"}
+{"level":"info","msg":"Server is shutting down...","time":"2024-03-03T17:06:38+07:00"}
+{"level":"info","msg":"Server has stopped","time":"2024-03-03T17:06:38+07:00"}
+{"level":"info","msg":"Connected to MongoDB","time":"2024-03-03T17:06:43+07:00"}
+{"level":"info","msg":"Server is running at http://127.0.0.1:8080","time":"2024-03-03T17:06:43+07:00"}
+{"level":"info","msg":"Server is shutting down...","time":"2024-03-03T17:07:09+07:00"}
+{"level":"info","msg":"Server has stopped","time":"2024-03-03T17:07:09+07:00"}
+{"level":"info","msg":"Connected to MongoDB","time":"2024-03-03T17:07:15+07:00"}
+{"level":"info","msg":"Server is running at http://127.0.0.1:8080","time":"2024-03-03T17:07:15+07:00"}
+{"level":"info","msg":"Server is shutting down...","time":"2024-03-03T17:22:57+07:00"}
+{"level":"info","msg":"Server has stopped","time":"2024-03-03T17:22:57+07:00"}
+{"level":"info","msg":"Connected to MongoDB","time":"2024-03-03T17:23:03+07:00"}
+{"level":"info","msg":"Server is running at http://127.0.0.1:8080","time":"2024-03-03T17:23:03+07:00"}
+{"level":"info","msg":"Error fetching product details from MongoDB: mongo: no documents in result","time":"2024-03-03T17:23:08+07:00"}
+{"level":"info","msg":"Error fetching product details from MongoDB: mongo: no documents in result","time":"2024-03-03T17:23:20+07:00"}
+{"level":"info","msg":"Server is shutting down...","time":"2024-03-03T17:25:16+07:00"}
+{"level":"info","msg":"Server has stopped","time":"2024-03-03T17:25:16+07:00"}
+{"level":"info","msg":"Connected to MongoDB","time":"2024-03-03T17:25:23+07:00"}
+{"level":"info","msg":"Server is running at http://127.0.0.1:8080","time":"2024-03-03T17:25:23+07:00"}
+{"level":"info","msg":"Error fetching product details from MongoDB: mongo: no documents in result","time":"2024-03-03T17:25:27+07:00"}
+{"level":"info","msg":"Error fetching product details from MongoDB: mongo: no documents in result","time":"2024-03-03T17:25:30+07:00"}
+{"level":"info","msg":"Error fetching product details from MongoDB: mongo: no documents in result","time":"2024-03-03T17:25:34+07:00"}
+{"level":"info","msg":"Error fetching product details from MongoDB: mongo: no documents in result","time":"2024-03-03T17:27:07+07:00"}
+{"level":"info","msg":"Error fetching product details from MongoDB: mongo: no documents in result","time":"2024-03-03T17:27:23+07:00"}
+{"level":"info","msg":"Server is shutting down...","time":"2024-03-03T17:30:37+07:00"}
+{"level":"info","msg":"Server has stopped","time":"2024-03-03T17:30:37+07:00"}
+{"level":"info","msg":"Connected to MongoDB","time":"2024-03-03T17:30:43+07:00"}
+{"level":"info","msg":"Server is running at http://127.0.0.1:8080","time":"2024-03-03T17:30:43+07:00"}
+{"level":"info","msg":"Error fetching product details from MongoDB: mongo: no documents in result","time":"2024-03-03T17:30:55+07:00"}
+{"level":"info","msg":"Error fetching product details from MongoDB: mongo: no documents in result","time":"2024-03-03T17:31:04+07:00"}
+{"level":"info","msg":"Server is shutting down...","time":"2024-03-03T17:37:09+07:00"}
+{"level":"info","msg":"Server has stopped","time":"2024-03-03T17:37:09+07:00"}
+{"level":"info","msg":"Connected to MongoDB","time":"2024-03-03T17:37:14+07:00"}
+{"level":"info","msg":"Server is running at http://127.0.0.1:8080","time":"2024-03-03T17:37:14+07:00"}
+{"level":"info","msg":"Error fetching product details from MongoDB: mongo: no documents in result","time":"2024-03-03T17:37:36+07:00"}
+{"level":"info","msg":"Error fetching product details from MongoDB: mongo: no documents in result","time":"2024-03-03T17:37:42+07:00"}
+{"level":"info","msg":"Server is shutting down...","time":"2024-03-03T17:46:02+07:00"}
+{"level":"info","msg":"Server has stopped","time":"2024-03-03T17:46:02+07:00"}
+{"level":"info","msg":"Connected to MongoDB","time":"2024-03-03T17:46:07+07:00"}
+{"level":"info","msg":"Server is running at http://127.0.0.1:8080","time":"2024-03-03T17:46:07+07:00"}
+{"level":"info","msg":"Error converting hex to ObjectID: the provided hex string is not a valid ObjectID","time":"2024-03-03T17:46:14+07:00"}
+{"level":"info","msg":"Error converting hex to ObjectID: the provided hex string is not a valid ObjectID","time":"2024-03-03T17:46:18+07:00"}
+{"level":"info","msg":"Server is shutting down...","time":"2024-03-03T17:51:52+07:00"}
+{"level":"info","msg":"Server has stopped","time":"2024-03-03T17:51:52+07:00"}
+{"level":"info","msg":"Connected to MongoDB","time":"2024-03-03T17:51:56+07:00"}
+{"level":"info","msg":"Server is running at http://127.0.0.1:8080","time":"2024-03-03T17:51:56+07:00"}
+{"level":"info","msg":"Error fetching product details from MongoDB: mongo: no documents in result","time":"2024-03-03T17:52:20+07:00"}
+{"level":"info","msg":"Error fetching product details from MongoDB: mongo: no documents in result","time":"2024-03-03T17:52:25+07:00"}
+{"level":"info","msg":"Server is shutting down...","time":"2024-03-03T17:53:56+07:00"}
+{"level":"info","msg":"Server has stopped","time":"2024-03-03T17:53:56+07:00"}
+{"level":"info","msg":"Connected to MongoDB","time":"2024-03-03T17:54:01+07:00"}
+{"level":"info","msg":"Server is running at http://127.0.0.1:8080","time":"2024-03-03T17:54:01+07:00"}
+{"level":"info","msg":"Error fetching product details from MongoDB: mongo: no documents in result, ObjectID: 65b882baf0107358bf1c519b","time":"2024-03-03T17:54:04+07:00"}
+{"level":"info","msg":"Error fetching product details from MongoDB: mongo: no documents in result, ObjectID: 65b882baf0107358bf1c519e","time":"2024-03-03T17:54:10+07:00"}
+{"level":"info","msg":"Error fetching product details from MongoDB: mongo: no documents in result, ObjectID: 65b882baf0107358bf1c519e","time":"2024-03-03T17:54:15+07:00"}
+{"level":"info","msg":"Error converting hex to ObjectID: the provided hex string is not a valid ObjectID, hex: \"65b882baf0107358bf1c519e\"","time":"2024-03-03T17:54:22+07:00"}
+{"level":"info","msg":"Error converting hex to ObjectID: the provided hex string is not a valid ObjectID, hex: \"65b882baf0107358bf1c519e\"","time":"2024-03-03T17:54:26+07:00"}
+{"level":"info","msg":"Error fetching product details from MongoDB: mongo: no documents in result, ObjectID: 65b882baf0107358bf1c519e","time":"2024-03-03T17:54:31+07:00"}
+{"level":"info","msg":"Error fetching product details from MongoDB: mongo: no documents in result, ObjectID: 65b882baf0107358bf1c519b","time":"2024-03-03T17:54:45+07:00"}
+{"level":"info","msg":"Error fetching product details from MongoDB: mongo: no documents in result, ObjectID: 507f191e810c19729de860ea","time":"2024-03-03T17:55:51+07:00"}
+{"level":"info","msg":"Error fetching product details from MongoDB: mongo: no documents in result, ObjectID: 507f191e810c19729de860ea","time":"2024-03-03T17:55:54+07:00"}
+{"level":"info","msg":"Error fetching product details from MongoDB: mongo: no documents in result, ObjectID: 507f191e810c19729de860ea","time":"2024-03-03T17:55:59+07:00"}
+{"level":"info","msg":"Server is shutting down...","time":"2024-03-03T17:56:46+07:00"}
+{"level":"info","msg":"Server has stopped","time":"2024-03-03T17:56:46+07:00"}
+{"level":"info","msg":"Connected to MongoDB","time":"2024-03-03T17:56:51+07:00"}
+{"level":"info","msg":"Server is running at http://127.0.0.1:8080","time":"2024-03-03T17:56:51+07:00"}
+{"level":"info","msg":"Hex ID received: 65b882baf0107358bf1c519b","time":"2024-03-03T17:57:03+07:00"}
+{"level":"info","msg":"ObjectID to query: 65b882baf0107358bf1c519b","time":"2024-03-03T17:57:03+07:00"}
+{"level":"info","msg":"Error fetching product details from MongoDB: mongo: no documents in result, ObjectID: 65b882baf0107358bf1c519b","time":"2024-03-03T17:57:04+07:00"}
+{"level":"info","msg":"Hex ID received: 65b882baf0107358bf1c519d","time":"2024-03-03T17:58:24+07:00"}
+{"level":"info","msg":"ObjectID to query: 65b882baf0107358bf1c519d","time":"2024-03-03T17:58:24+07:00"}
+{"level":"info","msg":"Error fetching product details from MongoDB: mongo: no documents in result, ObjectID: 65b882baf0107358bf1c519d","time":"2024-03-03T17:58:24+07:00"}
+{"level":"info","msg":"New product added: Name=Hp , Size=2048gb, Price=1550\n","time":"2024-03-03T17:58:59+07:00"}
+{"level":"info","msg":"Server is shutting down...","time":"2024-03-03T18:00:59+07:00"}
+{"level":"info","msg":"Server has stopped","time":"2024-03-03T18:00:59+07:00"}
+{"level":"info","msg":"Connected to MongoDB","time":"2024-03-03T18:03:31+07:00"}
+{"level":"info","msg":"Server is running at http://127.0.0.1:8080","time":"2024-03-03T18:03:31+07:00"}
+{"level":"info","msg":"Hex ID received: 65b882baf0107358bf1c519b","time":"2024-03-03T18:03:44+07:00"}
+{"level":"info","msg":"ObjectID to query: 65b882baf0107358bf1c519b","time":"2024-03-03T18:03:44+07:00"}
+{"level":"info","msg":"Product updated with ID: 65b882baf0107358bf1c519b\n","time":"2024-03-03T18:04:18+07:00"}
+{"level":"info","msg":"Error logging in: mongo: no documents in result","time":"2024-03-03T18:13:36+07:00"}
+{"level":"info","msg":"Error logging in: mongo: no documents in result","time":"2024-03-03T18:14:03+07:00"}
+{"level":"info","msg":"Error logging in: mongo: no documents in result","time":"2024-03-03T18:15:05+07:00"}
+{"level":"info","msg":"Hex ID received: 65b882baf0107358bf1c519b","time":"2024-03-03T18:15:49+07:00"}
+{"level":"info","msg":"ObjectID to query: 65b882baf0107358bf1c519b","time":"2024-03-03T18:15:49+07:00"}
+{"level":"info","msg":"Product deleted with ID: 65b882baf0107358bf1c519d\n","time":"2024-03-03T18:15:58+07:00"}
+{"level":"info","msg":"Product deleted with ID: 65b882baf0107358bf1c519d\n","time":"2024-03-03T18:16:03+07:00"}
+{"level":"info","msg":"Product deleted with ID: 65b882baf0107358bf1c519f\n","time":"2024-03-03T18:16:20+07:00"}
+{"level":"info","msg":"Server is shutting down...","time":"2024-03-03T18:18:24+07:00"}
+{"level":"info","msg":"Server has stopped","time":"2024-03-03T18:18:24+07:00"}
+{"level":"info","msg":"Connected to MongoDB","time":"2024-03-03T18:18:29+07:00"}
+{"level":"info","msg":"Server is running at http://127.0.0.1:8080","time":"2024-03-03T18:18:29+07:00"}
+{"level":"info","msg":"Product deleted with ID: 65b882baf0107358bf1c519f\n","time":"2024-03-03T18:18:51+07:00"}
+{"level":"info","msg":"Connected to MongoDB","time":"2024-03-03T20:03:41+06:00"}
+{"level":"info","msg":"Server is running at http://127.0.0.1:8080","time":"2024-03-03T20:03:41+06:00"}
+{"level":"info","msg":"Server is shutting down...","time":"2024-03-03T20:14:24+06:00"}
+{"level":"info","msg":"Server has stopped","time":"2024-03-03T20:14:24+06:00"}
+{"level":"info","msg":"Connected to MongoDB","time":"2024-03-03T20:17:08+06:00"}
+{"level":"info","msg":"Server is running at http://127.0.0.1:8080","time":"2024-03-03T20:17:08+06:00"}
